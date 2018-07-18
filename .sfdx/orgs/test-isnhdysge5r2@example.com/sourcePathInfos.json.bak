@@ -1,0 +1,444 @@
+[
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1531863506595,
+            "changeTime": 1531863506595,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1531863506595,
+            "changeTime": 1531863506595,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1531876411493,
+            "changeTime": 1531876411493,
+            "contentHash": "3d68de974fcd62ebead11b0d8db246222796d37d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1531876411478,
+            "changeTime": 1531876411478,
+            "contentHash": "8852aefd59c112983e0b7a9954d3da2cc8ee39b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1531863611545,
+            "changeTime": 1531863611545,
+            "contentHash": "d55aff0fbaf3f2f98e5025bf82e59bccb684db59",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.auradoc",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1531863611545,
+            "changeTime": 1531863611545,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.cmp",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.cmp",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1531863811912,
+            "changeTime": 1531863811912,
+            "contentHash": "6cc8ab670acea0c04769ccb0c1dab4ca6a94d7c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1531863811912,
+            "changeTime": 1531863811912,
+            "contentHash": "a0f09e1ed76904525629dea68a233a2174b10879",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.css",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1531863611544,
+            "changeTime": 1531863611544,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.design",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1531863611545,
+            "changeTime": 1531863611545,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.svg",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1531863611544,
+            "changeTime": 1531863611544,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentController.js",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentController.js",
+            "isDirectory": false,
+            "size": 449,
+            "modifiedTime": 1531863811912,
+            "changeTime": 1531863811912,
+            "contentHash": "2a20984f63ba0c3b9427801f438646e574ea2596",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentHelper.js",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentHelper.js",
+            "isDirectory": false,
+            "size": 1618,
+            "modifiedTime": 1531863811928,
+            "changeTime": 1531863811928,
+            "contentHash": "c5a0e80899a6fc9e2744d3b8e9e7746feaa011d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentRenderer.js",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/ServiceComponent/ServiceComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1531863611544,
+            "changeTime": 1531863611544,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1531863513587,
+            "changeTime": 1531863513587,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1531876411479,
+            "changeTime": 1531876411479,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 955,
+            "modifiedTime": 1531879794343,
+            "changeTime": 1531879794343,
+            "contentHash": "18255e7099f47282d82953dbffcef4b7a32b20cc"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponentHelper.js",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponentHelper.js",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1531876411481,
+            "changeTime": 1531876411481,
+            "contentHash": "3e643a8d71d1dc871da9b0faac7e2cbd6bf45580",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponentController.js",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent/SampleUsingServiceComponentController.js",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1531876411481,
+            "changeTime": 1531876411481,
+            "contentHash": "6ec3726468788a8b42b2c65ec5bd3be0570d6ebb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/flexipages/SampleServiceComponent.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/flexipages/SampleServiceComponent.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1531876411483,
+            "changeTime": 1531876411483,
+            "contentHash": "5d6d9154f6ad78f2b7133cd6b04189ad4751b4b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/tabs/SampleServiceComponent.tab-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/tabs/SampleServiceComponent.tab-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1531876411486,
+            "changeTime": 1531876411486,
+            "contentHash": "906f642e3825a915d4cba4946660041e2aabd1de",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes/SampleUsingServiceComponentController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes/SampleUsingServiceComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1531876411488,
+            "changeTime": 1531876411488,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes/SampleUsingServiceComponentController.cls",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes/SampleUsingServiceComponentController.cls",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1531876411489,
+            "changeTime": 1531876411489,
+            "contentHash": "6e945d14516851d0deba29ffd361e86a4007c203",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4817,
+            "modifiedTime": 1531876411495,
+            "changeTime": 1531876411495,
+            "contentHash": "aa004a915939604fa755d058d8111a9d382c8d6c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17895,
+            "modifiedTime": 1531876411514,
+            "changeTime": 1531876411514,
+            "contentHash": "2ee00d815fa6d30dfcbbd50ee86d9b78b1b03c86",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4479,
+            "modifiedTime": 1531876411518,
+            "changeTime": 1531876411518,
+            "contentHash": "e6ac55882245bb8f641139957d26b0c29a526b37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4479,
+            "modifiedTime": 1531876411522,
+            "changeTime": 1531876411522,
+            "contentHash": "e6ac55882245bb8f641139957d26b0c29a526b37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/aura/SampleUsingServiceComponent",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1531876411481,
+            "changeTime": 1531876411481,
+            "contentHash": "93812612d01addcf6e4b5c3d48cb2b970403c8fc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1531876411483,
+            "changeTime": 1531876411483,
+            "contentHash": "0e55f8f35763f458d9a1a8bd6769b9f70dfea035",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1531876411486,
+            "changeTime": 1531876411486,
+            "contentHash": "c97da3a9a012fa56b662e9769d2eaa98bb8f49da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1531876411489,
+            "changeTime": 1531876411489,
+            "contentHash": "53d7bc4e36b6c8c8ad5e09a96af7780b453d4820",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/stangerman/SalesForceProjects/ReusableLightningComponents/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1531876411522,
+            "changeTime": 1531876411522,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

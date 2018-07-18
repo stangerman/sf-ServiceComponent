@@ -1,0 +1,23 @@
+<aura:component controller="SampleUsingServiceComponentController" implements="flexipage:availableForAllPageTypes">
+    <!-- to test this component just place it on any LightningPage in the LightningAppBuilder --> 
+    
+    <c:ServiceComponent aura:id="service" />
+	
+    <aura:attribute name="contactList" type="Contact[]" />
+    
+    <lightning:card title="v3: Show Contacts">
+        <aura:set attribute="actions">
+            <lightning:button label="Get Contacts" onclick="{!c.onSubmitButtonClick}" />
+        </aura:set>
+
+        <p class="slds-p-horizontal_small">
+            <lightning:input aura:id="filterInput" type="text" name="filterInput" label="Contact filter" />
+        </p>
+
+        <ul class="slds-p-horizontal_small slds_truncate">
+            <aura:iteration items="{!v.contactList}" var="contact">
+                <li>{!contact.FirstName}</li>
+            </aura:iteration>
+        </ul>
+    </lightning:card>
+</aura:component>
